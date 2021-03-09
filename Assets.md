@@ -1,9 +1,9 @@
 Asset List
 
-*Jail Cell*
-noun_jail_1857518.png
-URL: https://thenounproject.com/term/jail-cell/1857518/
-jail by myiconfinder from the Noun Project
+*Lock*
+noun_Lock_823.png
+URL: https://thenounproject.com/term/lock/823/
+Lock By Dave Tappy, GB from The Noun Project
 
 *Brain*
 brain-512758_1280.png
@@ -18,7 +18,3 @@ Image by Clker-Free-Vector-Images from Pixabay
 *Library*
 dana-ward-tDOrQDr11oc-unsplash.jpg
 Photo by Dana Ward on Unsplash
-
-*Library 2*
-annie-spratt-IlWF2uHxs0Q-unsplash.jpg
-Photo by Annie Spratt on Unsplash
